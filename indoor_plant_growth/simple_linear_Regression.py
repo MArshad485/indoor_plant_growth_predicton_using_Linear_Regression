@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 import seaborn as sns
 from matplotlib import pyplot as plt
 
-df=pd.read_csv("indoor_plant_growth.csv");
+df=pd.read_csv("indoor_plant_growth/Indoor_plant_growth.csv");
 
 st.title(" 🌱 Indoor Plant growth using Linear Regression ");
 st.info("""
