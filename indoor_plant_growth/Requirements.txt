@@ -1,8 +1,7 @@
-Libraries
-python 
 numpy
 pandas
-scikitlearn
+scikit-learn
 matplotlib
 seaborn
 streamlit
+matplotlib
